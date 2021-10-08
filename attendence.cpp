@@ -2,12 +2,12 @@
 //
 // Created by: Haokai
 // Created on: Oct 2021
-// This Program is about attendence
+// This Program is about attendance
 #include <iostream>
 #include <string>
 
 int main() {
-    // This Program is about attendence
+    // This Program is about attendance
     float answerNumber = 0;
 
     std::string classesHeldString;
