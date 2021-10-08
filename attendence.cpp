@@ -41,7 +41,7 @@ int main() {
                 std::cout << "" << std::endl;
             } else {
                 // output
-                std::cout << "Your attendence is less than 75%, ";
+                std::cout << "Your attendance is less than 75%, ";
                 std::cout << "you will not be allowed to sit in the exam."
                 << std::endl;
                 std::cout << "" << std::endl;
