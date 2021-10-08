@@ -34,7 +34,7 @@ int main() {
         if (classesHeldInt == classesHeldFloat &&
         classesAttendedInt == classesAttendedFloat) {
             answerNumber = classesAttendedFloat / classesHeldFloat;
-            std::cout << "Attendence = " << answerNumber << std::endl;
+            std::cout << "Attendance = " << answerNumber << std::endl;
             if (answerNumber >= 0.75) {
                 std::cout << "OK, you will be allowed to sit in the exam."
                 << std::endl;
